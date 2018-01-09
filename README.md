@@ -22,7 +22,7 @@ A Blender Plugin for easy text creation
 1. Install Plugin
 2. Open Blender Config folder <br/>
    (On Windows it's `USER_DIR\AppData\Roaming\Blender Foundation\Blender\BLENDER_VERSION\`)
-3. Open Script Location `\scripts\addons\easyText_0_6` in your IDE
+3. Open Script Location `\scripts\addons\easyText` in your IDE
 4. After chance hit `F8` in Blender to reload all plugins
 
 _Tip: For console drag the 3D Viewport Border from the top a little down_

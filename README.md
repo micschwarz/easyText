@@ -5,19 +5,10 @@
 A Blender Plugin for easy text creation
 
 ## Getting Started
-
-Clone Project
-
-```
-git clone
-```
-
 ### Prerequisites
 
 * [Blender](https://www.blender.org/) (v2.77+)
-* [Python](https://www.python.org/) (v3.5+, only for developement)
-
-
+* [Python](https://www.python.org/) (v3.5+, only for development)
 
 ### Installing in Blender
 
@@ -28,12 +19,13 @@ git clone
 
 ### Development with live test
 
-1. Open Blender Config folder <br/>
+1. Install Plugin
+2. Open Blender Config folder <br/>
    (On Windows it's `USER_DIR\AppData\Roaming\Blender Foundation\Blender\BLENDER_VERSION\`)
-2. Open Script Location `\scripts\addons\easyText_0_6` in your IDE
-3. After chance hit `F8` in Blender to reload all plugins
+3. Open Script Location `\scripts\addons\easyText_0_6` in your IDE
+4. After chance hit `F8` in Blender to reload all plugins
 
-Tip: For console drag the 3D Viewport Border from the top a little down
+_Tip: For console drag the 3D Viewport Border from the top a little down_
 
 ## Versioning
 

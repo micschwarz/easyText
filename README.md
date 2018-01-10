@@ -14,10 +14,18 @@ A Blender Plugin for easy text creation
 
 ### Installing in Blender
 
-1. Go into settings ``File > User Preferences``
-2. Choose ``Add-ons`` Tab
-3. Click ``Install Add-on from File``
-4. Restart Blender
+1. Download Plugin from [releases-section](https://github.com/micschwarz/easyText/releases) for your Blender Version
+2. Go into settings ``File > User Preferences``
+3. Choose ``Add-ons`` Tab
+4. Click ``Install Add-on from File`` and choose downloaded file
+5. Restart Blender
+
+| Blender   | easyText
+| ---------:|:-------------------------------------------------------------------------------------
+| *< 2.78*  | *Not supported, try [0.6](https://github.com/micschwarz/easyText/releases/tag/0.6)*
+| 2.78      | [0.6](https://github.com/micschwarz/easyText/releases/tag/0.6)    
+| 2.79      | [0.7](https://github.com/micschwarz/easyText/releases/tag/0.7)     
+| *2.8+*    | *Not supported yet, try [0.7](https://github.com/micschwarz/easyText/releases/tag/0.7)*
 
 ### Development with live test
 

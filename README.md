@@ -21,7 +21,7 @@ A Blender Plugin for easy text creation
 5. Restart Blender
 
 | Blender   | easyText
-| ---------:|:-------------------------------------------------------------------------------------
+| --------- |:-------------------------------------------------------------------------------------
 | *< 2.78*  | *Not supported, try [0.6](https://github.com/micschwarz/easyText/releases/tag/0.6)*
 | 2.78      | [0.6](https://github.com/micschwarz/easyText/releases/tag/0.6)    
 | 2.79      | [0.7](https://github.com/micschwarz/easyText/releases/tag/0.7)     

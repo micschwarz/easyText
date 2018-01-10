@@ -1,6 +1,7 @@
 # easyText
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/9aa888b165f41c9f6d94/maintainability)](https://codeclimate.com/github/micschwarz/easyText/maintainability)
+[![GitHub tag](https://img.shields.io/github/tag/micschwarz/easyText.svg)]()
 
 A Blender Plugin for easy text creation
 

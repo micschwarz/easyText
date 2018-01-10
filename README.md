@@ -1,7 +1,8 @@
 # easyText
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/9aa888b165f41c9f6d94/maintainability)](https://codeclimate.com/github/micschwarz/easyText/maintainability)
-[![GitHub tag](https://img.shields.io/github/tag/micschwarz/easyText.svg)]()
+[![GitHub tag](https://img.shields.io/github/tag/micschwarz/easyText.svg)](https://github.com/micschwarz/easyText/tags)
+[![Blender Version](https://img.shields.io/badge/Blender-2.79-organge.svg)](https://www.blender.org/download/releases/2-79/)
 
 A Blender Plugin for easy text creation
 
@@ -30,4 +31,4 @@ _Tip: For console drag the 3D Viewport Border from the top a little down_
 
 ## Versioning
 
-I'm using [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+I'm using [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/micschwarz/easyText/tags). 
